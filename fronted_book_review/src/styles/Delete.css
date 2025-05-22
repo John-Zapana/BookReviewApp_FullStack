@@ -1,0 +1,85 @@
+.delete-book-page-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2rem;
+    text-align: center;
+    background-color: #f5f5f5; /* Light background for better contrast */
+    min-height: 100vh;
+    color: #333;
+}
+
+.delete-book-page-header {
+    margin-bottom: 1rem;
+    color: #333; /* Text color */
+    padding: 0.5rem; /* Reduced padding */
+    border-radius: 8px;
+    background-color: transparent; /* Remove background color */
+    width: 100%; /* Ensure the header spans the full width */
+}
+
+.delete-book-page-title {
+    font-size: 2.5rem; /* Reduced font size */
+    margin-bottom: 0.5rem; /* Reduced margin */
+}
+
+.delete-book-page-image-container {
+    width: 100%; /* Ensure the image container spans the full width */
+    max-width: 800px; /* Set a maximum width for the image container */
+    margin-bottom: 1rem; /* Reduced margin */
+    background-color: transparent; /* Remove background color */
+}
+
+.delete-book-page-image {
+    width: 100%; /* Ensure the image spans the full width */
+    height: auto;
+    max-height: 300px; /* Set a maximum height for the image */
+    object-fit: cover; /* Ensure the image maintains its aspect ratio */
+    border-radius: 8px; /* Optional: Add rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Optional: Add a shadow for better presentation */
+}
+
+.delete-book-page-content {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    width: 100%;
+    max-width: 800px;
+    margin-top: 2rem;
+    background-color: rgba(255, 255, 255, 0.9); /* Semi-transparent background */
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.book-list-item {
+    padding: 0.5rem 1rem; /* Add padding to the list items */
+    border-bottom: 1px solid #ccc;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.book-list-item h3 {
+    flex: 1;
+    text-align: left;
+}
+
+.book-list-item p {
+    flex: 1;
+    text-align: center;
+}
+
+.delete-button {
+    padding: 0.5rem 1rem;
+    border: none;
+    border-radius: 4px;
+    background-color: #ff4d4d;
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.delete-button:hover {
+    background-color: #cc0000;
+}

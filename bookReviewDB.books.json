@@ -1,0 +1,294 @@
+[{
+  "_id": {
+    "$oid": "67d53615d335e885ff557bfb"
+  },
+  "title": "To Kill a Mockingbird",
+  "author": "Harper Lee",
+  "genre": "Fiction",
+  "description": "A novel about the serious issues of rape.",
+  "reviews": [
+    {
+      "reviewer": "Joaquin",
+      "rating": 4,
+      "comment": "One of the most incredible books tha i have read",
+      "date": {
+        "$date": "2025-03-17T10:18:08.069Z"
+      },
+      "_id": {
+        "$oid": "67d7f6e042c8f43c2cfb387c"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67d53615d335e885ff557bfc"
+  },
+  "title": "1984",
+  "author": "George Orwell",
+  "genre": "Dystopian",
+  "description": "A novel that presents a terrifying vision of a totalitarian future.",
+  "reviews": [
+    {
+      "reviewer": "Jose",
+      "rating": 4,
+      "comment": "One of the best distopic novel that I have read. I recommend you goys.",
+      "date": {
+        "$date": "2025-03-27T00:14:59.710Z"
+      },
+      "_id": {
+        "$oid": "67e49883c174bccce6ba42fb"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67d53615d335e885ff557bfd"
+  },
+  "title": "Pride and Prejudice",
+  "author": "Jane Austen",
+  "genre": "Romance",
+  "description": "A romantic novel that also critiques the British landed gentry at the end of the 18th century.",
+  "reviews": []
+},
+{
+  "_id": {
+    "$oid": "67d53615d335e885ff557bfe"
+  },
+  "title": "The Great Gatsby",
+  "author": "F. Scott Fitzgerald",
+  "genre": "Fiction",
+  "description": "A novel about the American dream and the roaring twenties.",
+  "reviews": []
+},
+{
+  "_id": {
+    "$oid": "67d53615d335e885ff557bff"
+  },
+  "title": "Moby-Dick",
+  "author": "Herman Melville",
+  "genre": "Adventure",
+  "description": "A novel about the voyage of the whaling ship Pequod.",
+  "reviews": []
+},
+{
+  "_id": {
+    "$oid": "67d53615d335e885ff557c00"
+  },
+  "title": "War and Peace",
+  "author": "Leo Tolstoy",
+  "genre": "Historical Fiction",
+  "description": "A novel that chronicles the history of the French invasion of Russia.",
+  "reviews": []
+},
+{
+  "_id": {
+    "$oid": "67d53615d335e885ff557c01"
+  },
+  "title": "The Catcher in the Rye",
+  "author": "J.D. Salinger",
+  "genre": "Fiction",
+  "description": "A novel about the experiences of a young man in New York City.",
+  "reviews": []
+},
+{
+  "_id": {
+    "$oid": "67d53615d335e885ff557c02"
+  },
+  "title": "The Hobbit",
+  "author": "J.R.R. Tolkien",
+  "genre": "Fantasy",
+  "description": "A fantasy novel about the adventures of Bilbo Baggins.",
+  "reviews": []
+},
+{
+  "_id": {
+    "$oid": "67d53615d335e885ff557c03"
+  },
+  "title": "Fahrenheit 451",
+  "author": "Ray Bradbury",
+  "genre": "Dystopian",
+  "description": "A novel about a future society where books are banned and burned.",
+  "reviews": []
+},
+{
+  "_id": {
+    "$oid": "67d53615d335e885ff557c04"
+  },
+  "title": "Jane Eyre",
+  "author": "Charlotte Brontë",
+  "genre": "Romance",
+  "description": "A novel about the experiences of the orphan Jane Eyre.",
+  "reviews": []
+},
+{
+  "_id": {
+    "$oid": "67d53615d335e885ff557c05"
+  },
+  "title": "Brave New World",
+  "author": "Aldous Huxley",
+  "genre": "Dystopian",
+  "description": "A novel about a future society that is seemingly perfect but deeply flawed.",
+  "reviews": []
+},
+{
+  "_id": {
+    "$oid": "67d53615d335e885ff557c06"
+  },
+  "title": "The Lord of the Rings",
+  "author": "J.R.R. Tolkien",
+  "genre": "Fantasy",
+  "description": "A fantasy novel about the quest to destroy the One Ring.",
+  "reviews": []
+},
+{
+  "_id": {
+    "$oid": "67d53615d335e885ff557c07"
+  },
+  "title": "The Alchemist",
+  "author": "Paulo Coelho",
+  "genre": "Adventure",
+  "description": "A novel about a young shepherd's journey to find a hidden treasure.",
+  "reviews": []
+},
+{
+  "_id": {
+    "$oid": "67d53615d335e885ff557c08"
+  },
+  "title": "Harry Potter and the Sorcerer's Stone",
+  "author": "J.K. Rowling",
+  "genre": "Fantasy",
+  "description": "A fantasy novel about a young wizard's first year at Hogwarts School of Witchcraft and Wizardry.",
+  "reviews": []
+},
+{
+  "_id": {
+    "$oid": "67d53615d335e885ff557c09"
+  },
+  "title": "The Da Vinci Code",
+  "author": "Dan Brown",
+  "genre": "Mystery",
+  "description": "A mystery novel about a symbologist's quest to uncover a secret hidden in Leonardo da Vinci's works.",
+  "reviews": []
+},
+{
+  "_id": {
+    "$oid": "67d53615d335e885ff557c0a"
+  },
+  "title": "The Hunger Games",
+  "author": "Suzanne Collins",
+  "genre": "Dystopian",
+  "description": "A dystopian novel about a young girl's fight for survival in a televised death match.",
+  "reviews": []
+},
+{
+  "_id": {
+    "$oid": "67d53615d335e885ff557c0b"
+  },
+  "title": "The Road",
+  "author": "Cormac McCarthy",
+  "genre": "Post-Apocalyptic",
+  "description": "A novel about a father and son's journey through a post-apocalyptic world.",
+  "reviews": []
+},
+{
+  "_id": {
+    "$oid": "67d53615d335e885ff557c0c"
+  },
+  "title": "Life of Pi",
+  "author": "Yann Martel",
+  "genre": "Adventure",
+  "description": "A novel about a young boy's survival at sea with a Bengal tiger.",
+  "reviews": []
+},
+{
+  "_id": {
+    "$oid": "67d53615d335e885ff557c0d"
+  },
+  "title": "The Book Thief",
+  "author": "Markus Zusak",
+  "genre": "Historical Fiction",
+  "description": "A novel about a young girl's experiences in Nazi Germany.",
+  "reviews": []
+},
+{
+  "_id": {
+    "$oid": "67d53615d335e885ff557c0e"
+  },
+  "title": "Gone Girl",
+  "author": "Gillian Flynn",
+  "genre": "Thriller",
+  "description": "A thriller novel about a woman's disappearance and the ensuing investigation.",
+  "reviews": []
+},
+{
+  "_id": {
+    "$oid": "67d53615d335e885ff557c0f"
+  },
+  "title": "The Girl on the Train",
+  "author": "Paula Hawkins",
+  "genre": "Mystery",
+  "description": "A mystery novel about a woman who becomes entangled in a missing person's investigation.",
+  "reviews": []
+},
+{
+  "_id": {
+    "$oid": "67d53615d335e885ff557c10"
+  },
+  "title": "The Fault in Our Stars",
+  "author": "John Green",
+  "genre": "Romance",
+  "description": "A romance novel about two teenagers with cancer who fall in love.",
+  "reviews": []
+},
+{
+  "_id": {
+    "$oid": "67d53615d335e885ff557c11"
+  },
+  "title": "The Kite Runner",
+  "author": "Khaled Hosseini",
+  "genre": "Historical Fiction",
+  "description": "A novel about a young boy's experiences in Afghanistan and his journey to redemption.",
+  "reviews": []
+},
+{
+  "_id": {
+    "$oid": "67d53615d335e885ff557c12"
+  },
+  "title": "The Shining",
+  "author": "Stephen King",
+  "genre": "Horror",
+  "description": "A horror novel about a family's experiences in a haunted hotel.",
+  "reviews": []
+},
+{
+  "_id": {
+    "$oid": "67d53615d335e885ff557c13"
+  },
+  "title": "The Handmaid's Tale",
+  "author": "Margaret Atwood",
+  "genre": "Dystopian",
+  "description": "A dystopian novel about a woman's life in a totalitarian society.",
+  "reviews": []
+},
+{
+  "_id": {
+    "$oid": "67d961a379c28d6d4caaea98"
+  },
+  "title": "The Book Thief",
+  "author": "Zusak",
+  "genre": "History",
+  "description": "The book describes the life of a girl in the second worl war.",
+  "reviews": []
+},
+{
+  "_id": {
+    "$oid": "67ff145af057723a070db86f"
+  },
+  "title": "Dracula",
+  "author": "Bram Stoker",
+  "genre": "Horror Fiction",
+  "description": "Dracula is an 1897 Gothic horror novel by Irish author Bram Stoker.",
+  "reviews": []
+}]
