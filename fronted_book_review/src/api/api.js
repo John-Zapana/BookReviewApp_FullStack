@@ -4,7 +4,7 @@ import axios from 'axios';
 const API = axios.create({ baseURL: 'http://localhost:5000' });
 
 // Google Books API
-const GOOGLE_BOOKS_API_KEY = 'AIzaSyDs_1pCyb8cFbbzurh16oShwVuiw0LoOgQ';
+const GOOGLE_BOOKS_API_KEY = 'I removed my key fro security, you can create your own key';
 const GOOGLE_BOOKS_API_URL = 'https://www.googleapis.com/books/v1/volumes';
 
 // Fetch book data from Google Books API based on ISBN or title
