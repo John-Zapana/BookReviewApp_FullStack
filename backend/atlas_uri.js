@@ -1,1 +1,1 @@
-export const uri = 'mongodb+srv://emanuelzapana:pikachu_90@cluster0.y0lzjl1.mongodb.net/bookReviewDB?retryWrites=true&w=majority';
+export const uri = 'mongodb+srv://putyouruser@cluster0.y0lzjl1.mongodb.net/bookReviewDB?retryWrites=true&w=majority';
